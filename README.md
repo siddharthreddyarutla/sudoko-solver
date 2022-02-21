@@ -14,7 +14,7 @@ Given a partially filled 9×9 2D array ‘grid[9][9]’, the goal is to assign d
 
 # output:
 
-2  5 8 7 3 6 9 4 1 <br>
+2  5 8 7       3 6 9 4 1 <br>
 6 1 9 8 2 4 3 5 7 <br>
 4 3 7 9 1 5 2 6 8 <br>
 3 9 5 2 7 1 4 8 6 <br>
